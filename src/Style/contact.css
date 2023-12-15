@@ -1,0 +1,36 @@
+/* i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    border-radius: 100%;
+    background-color: rgb(190, 214, 214);
+}
+
+.cont {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}
+.row{
+  
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+} */
+#icons{
+    background: transparent;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(183, 201, 201);
+}
+.send_msg{
+    height: 40px;
+    width: 120px;
+    border-radius: 30%;
+    /* color:  linear-gradient(75deg, #00bce6, #2962ff 50.31%, #d500f9) #aa00ff40; */
+    background-color:rgb(8, 122, 216)
+}

@@ -1,0 +1,15 @@
+.title{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: #173b6c;
+}
+.dec{
+   
+    font-size: "Open Sans", sans-serif;
+    font-size: 18px;
+}
+.hrl{
+    display: flex;
+
+}
